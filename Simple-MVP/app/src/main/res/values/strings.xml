@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Simple-MVP</string>
+    <string name="update_data_hint">Loaded %1$d items from network.</string>
+</resources>
