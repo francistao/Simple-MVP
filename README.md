@@ -23,7 +23,7 @@ compile 'io.reactivex:rxandroid:0.23.+'
 compile 'com.squareup.retrofit:retrofit:1.9.+'
 ```
 
-网络请求需要科学上网
+网络请求需要翻墙
 
 
 
